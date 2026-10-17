@@ -22,7 +22,7 @@ jobs:
           cache-dependency-path: go.sum
 
       - name: Check formatting
-        run: 
+        run: | 
           unformatted="$(gofmt -l .)"
           if [ -n "$unformatted" ]; then
             echo "These files need gofmt:"
