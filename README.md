@@ -1,3 +1,7 @@
+# Web Preview
+Web : https://ideas-six-psi.vercel.app
+Frontend Repo : https://github.com/StaticeFlower/web_idae
+
 # IdeaSpark API
 
 API ฝั่งหลังบ้านของเว็บแชร์ไอเดีย เขียนด้วย Go (`net/http` มาตรฐาน) + GORM เชื่อมกับ Postgres ของ Supabase
